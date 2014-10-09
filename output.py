@@ -1,3 +1,3 @@
 #!/usr/bin/env python
 
-print 'The quick brown fox','jump over','the lazy dog'
+print '100 + 200 =', 100 + 200
